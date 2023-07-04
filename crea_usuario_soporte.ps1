@@ -1,6 +1,6 @@
 $Username = "soporte"
 $Password = "soporte"
-$group = "Administrators"
+$group = "Administrator"
 
 NET USER $Username $Password /add /y /expires:never
 
